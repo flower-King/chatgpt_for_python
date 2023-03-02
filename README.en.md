@@ -19,6 +19,6 @@ Chatgpt's API seems to be a wall now, you can use Proxychains to open the agent
 proxychains python3 main.py
 ```
 ## Effect:
-! [Image] (https://user-images.githubusercontent.com/60785775/2222438502-48ba69de-13ee-4996-911c-16943258e5.png))))))
+![image](https://user-images.githubusercontent.com/60785775/222438502-48ba69de-13ee-4996-911c-16943c3258e5.png)
 
-! [Image] (https://user-images.githubusercontent.com/60785775/2222438701-CF67228E-43FD-B05F-8eb9ef891d.png))
+![image](https://user-images.githubusercontent.com/60785775/222438701-cf67226b-828e-43fd-b05f-1a8eb9ef891d.png)
