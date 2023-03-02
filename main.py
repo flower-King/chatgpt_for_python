@@ -3,6 +3,8 @@ import openai
 import json
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
+#openai.api_key = "你的API_KEY"
+
 _目录列表 = []
 _对话列表 = []
 _一句话 = {}
