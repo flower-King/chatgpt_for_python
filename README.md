@@ -1,4 +1,6 @@
 # chatgpt_for_python
+[English](https://github.com/flower-King/chatgpt_for_python/blob/main/README.en.md "English")
+
 使用chatgptAPI用python在控制台开启对话，可保存对话，可继续对话，可连续对话。
 ## 安装方式：
 ```shell
