@@ -4,6 +4,11 @@
 ```shell
 pip install --force-reinstall -v "openai==0.27.0"
 ```
+需要配置openai.api_key，默认会去读取OPENAI_API_KEY这个环境变量的值，
+嫌麻烦可以直接在代码中设置api_key
+```python3
+openai.api_key = "你的API_KEY"
+```
 ## 使用方式：
 ```shell
 python3 main.py
