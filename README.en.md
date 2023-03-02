@@ -2,7 +2,7 @@
 Use the ChatGPTAPI to open a dialogue on the console with PyThon. You can save the dialogue. You can continue the dialogue.
 ## installation method:
 ```shell
-PIP Install -Force -Reinstall -v "Openai == 0.27.0"
+pip install --force-reinstall -v "openai==0.27.0"
 ```
 You need to configure openai.api_key
 ```python3
